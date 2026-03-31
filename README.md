@@ -17,13 +17,13 @@ By combining an interactive Google Map with the OpenWeatherMap API and Google's 
 The Gemini API acts as the core climate intelligence engine. When a user clicks a location on the map, the backend fetches live meteorological data (temperature, humidity, wind speed, condition) and injects it into a meticulously structured prompt. Gemini then synthesizes this live context and generates a structured markdown report outlining short-term risks, long-term projections (like shoreline erosion rates), government policy recommendations, and immediate actionable precautions for residents.
 
 ## Proof of Google AI Usage
-*(Attach screenshots in a `/proof` folder here)*
-- [AI Proof](proof/ai-proof.png)
+
+- [AI Proof](proof/gemini.png)
 
 ## Screenshots
-*(Add project screenshots here)*
-- [Screenshot 1](proof/screenshot1.png)
-- [Screenshot 2](proof/screenshot2.png)
+
+- [Screenshot 1](proof/ui1.png)
+- [Screenshot 2](proof/ui2.png)
 
 ## Demo Video
 *(Upload your demo video to Google Drive and paste the shareable link here)*
